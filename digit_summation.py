@@ -6,4 +6,5 @@ for i in range(len(str(num))):          #find lenght of num value and convert nu
     sum = sum+digit                     #sum=0+4=4____3+4=7
     num = num//10                       #num=1234//10=123____123//10=12
 print("The Summation of digit",sum)     #Final output
-
+12345
+54321
